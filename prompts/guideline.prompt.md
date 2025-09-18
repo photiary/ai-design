@@ -12,8 +12,7 @@ This document outlines the coding standards, architectural patterns, and best pr
 - **Tailwindcss v4** for utility-first styling
 - **dayjs** for Date util
 - **shadcn/ui** is a set of beautifully-designed, accessible components and a code distribution platform.
-
-### Excluded Technologies
+- **motion** for animation
 
 ### Excluded Prompt
 
