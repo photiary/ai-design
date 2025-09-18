@@ -1,3 +1,7 @@
+---
+apply: always
+---
+
 # React Style Guide for Application
 
 This document outlines the coding standards, architectural patterns, and best practices for the Dashboard app.

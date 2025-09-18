@@ -1,3 +1,7 @@
+---
+apply: off
+---
+
 # Prompt for Web Theme & Style
 
 - 위 내용을 바탕으로 `../packages/ui/src/components/**`, `../apps/web/**`의 모든 Component의 스타일을 수정한다.

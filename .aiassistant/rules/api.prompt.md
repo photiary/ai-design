@@ -1,3 +1,7 @@
+---
+apply: always
+---
+
 # Prompt for API layer generate
 
 ## 1. Basic rules

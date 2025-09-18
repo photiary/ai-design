@@ -1,3 +1,7 @@
+---
+apply: off
+---
+
 # Component structure for generate
 
 # AI Agent
