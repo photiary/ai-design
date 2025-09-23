@@ -17,6 +17,7 @@ This document outlines the coding standards, architectural patterns, and best pr
 - **dayjs** for Date util
 - **shadcn/ui** is a set of beautifully-designed, accessible components and a code distribution platform.
 - **motion** for animation
+- **recharts**
 
 ### Excluded Prompt
 
