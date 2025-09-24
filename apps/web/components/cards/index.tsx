@@ -10,6 +10,11 @@ import { CardsReportIssue } from '@/components/cards/report-issue'
 import { CardsShare } from '@/components/cards/share'
 import { CardsStats } from '@/components/cards/stats'
 import { CardsTeamMembers } from '@/components/cards/team-members.tsx'
+import { AccordionAlert } from '@/components/cards/accordion-alert.tsx'
+import { CarouselSlide } from '@/components/cards/carousel-slide.tsx'
+import { AlertSet } from '@/components/cards/alert-set.tsx'
+import { CheckboxToggle } from '@/components/cards/checkbox-toggle.tsx'
+import { ComboboxForm } from '@/components/cards/combobox-form.tsx'
 
 export function CardsDemo() {
   return (
@@ -30,6 +35,8 @@ export function CardsDemo() {
             <CardsForms />
             <CardsTeamMembers />
             <CardsCookieSettings />
+            <CarouselSlide />
+            <ComboboxForm />
           </div>
           <div className="flex flex-col gap-4">
             <CardsCreateAccount />
@@ -37,6 +44,7 @@ export function CardsDemo() {
             <div className="hidden xl:block">
               <CardsReportIssue />
             </div>
+            <AlertSet />
           </div>
         </div>
       </div>
@@ -54,9 +62,11 @@ export function CardsDemo() {
           <CardsPayments />
         </div>
         <CardsShare />
+        <AccordionAlert />
         <div className="xl:hidden">
           <CardsReportIssue />
         </div>
+        <CheckboxToggle />
       </div>
     </div>
   )
