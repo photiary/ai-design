@@ -1,5 +1,5 @@
 ---
-apply: off
+apply: always
 ---
 
 # Prompt for Web Theme & Style
@@ -103,4 +103,32 @@ You can now use the warning utility class in your components.
 
 ```jsx
 <div className="bg-warning text-warning-foreground" />
+```
+
+# 컴포넌트 재정의
+
+tailwindcss Effects, Filters 등의 기능를 사용하여 선택한 테마에 맞게 재정의 하라.
+
+## Card new theme
+
+카드의 테마를 예제와 같이 재정의 하라.
+
+```css
+@layer utilities {
+    [data-slot="card"] {
+        @apply from-primary/5 to-card bg-gradient-to-t shadow-xl;
+    }
+}
+```
+
+## Content session new theme
+
+컨텐츠 영역의 테마를 예제와 같이 재정의 하라.
+
+```css
+@layer utilities {
+    [data-slot="sidebar-inset"] {
+        @apply backdrop-blur-lg border-l-2 shadow-md;
+    }
+}
 ```
