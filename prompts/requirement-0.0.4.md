@@ -10,7 +10,7 @@
 - [ ] Yarn [ ] Paper [ ] Black Pearl [ ] Glass
 - [ ] Neon Blue Color
 - [ ] Minimal Swiss [ ] Glassmorphism [ ] Neobrutalism [ ] Editorial Serif [ ] Seasonal (Autumn Warm)
-- [ ] Uploaded image
+- [x] Uploaded image
 
 ## Combination Recipe Styles
 
@@ -103,7 +103,7 @@
 
 ### 'sidebar-inset' Texture
 - [ ] 위 Combination Recipe Styles 에 선택한 요소로 창의적인 디자인.
-- [ ] 위 Basic Styles에 업로드한 이미지 스타일의 창의적 디자인.
+- [x] 위 Basic Styles에 업로드한 이미지 스타일의 창의적 디자인.
 - [ ] 최대한 절제하고, 불필요한 노이즈 없이 컬러와 미세한 빛 번짐으로 깊이를 표현한 디자인.
 - [ ] 거친 종이 질감과 노이즈를 추가하고 미세한 빛 번즘으로 깊이 있는 디자인.
 - [ ] 은은하게 섞인 파스텔톤 그라데이션 배경.
@@ -111,7 +111,7 @@
 
 ### 'card' Texture
 - [ ] 위 Combination Recipe Styles 에 선택한 요소로 창의적인 디자인.
-- [ ] 위 Basic Styles에 업로드한 이미지 스타일의 창의적 디자인.
+- [x] 위 Basic Styles에 업로드한 이미지 스타일의 창의적 디자인.
 - [ ] 카드 표면에는 매우 약한 상향 그라데이션을 적용하여 입체감을 표현한다.
 - [ ] 여튼 노이즈와 그라데이션 효과로 매트한 질감
 
